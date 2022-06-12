@@ -8,5 +8,5 @@ Run: $ install.sh
 
 
 Guide:
-Youtube: Create Python CLI Tool | Python Click Tutorial | Python Automation  by Software engineer Hayden
+Youtube: Create Python CLI Tool | Python Click Tutorial | Python Automation  by Software engineer Haydn
 Website: Make Linux CLI Tools using python!  by  Saif Uddin Mahmud

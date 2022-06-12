@@ -10,10 +10,11 @@ def read_requirement():
 
 setup(
     name='quick',
-    version='0.1',
+    version='0.1.5',
     packages=find_packages(),
     include_package_data=True,
-    install_requires=read_requirement(),
+    # install_requires=read_requirement(),
+    install_requires=['click==8.1.3'],
     entry_points='''
         [console_scripts]
         quick=quick.main:main
